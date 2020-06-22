@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1592789917 source:c:\users\clever laura\desktop\8vo semestre\paralelismo csd\task\multiplicacion_matrices\main.cpp
+	<stdio.h>
+	<omp.h>
+	<time.h>
+	<iostream>
+

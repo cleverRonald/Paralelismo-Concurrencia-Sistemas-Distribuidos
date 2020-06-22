@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592804246 source:c:\users\clever laura\desktop\8vo semestre\paralelismo csd\task\quickshort\main.cpp
+	<stdio.h>
+	<time.h>
+	<iostream>
+
